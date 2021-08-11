@@ -1,0 +1,7 @@
+# MacOS
+## ignore desktop services files
+**/.DS_Store
+
+# Microsoft Visual Code
+## ignore setting files
+.vscode/settings.json
