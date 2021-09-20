@@ -35,10 +35,5 @@ If you want to use the included Microsoft PowerShell scripts to perform implemen
     Install-Module -Name VMware.PowerCLI -MinimumVersion 12.3.0
     Install-Module -Name VMware.vSphere.SsoAdmin -MinimumVersion 1.3.1
     Install-Module -Name PowerVCF -MinimumVersion 2.1.2
-    Install-Module -Name PowerValidatedSolutions -MinimumVersion 1.0.0
-    ```
-* Import the PowerValidatedSolutions and the PowerCLI PowerShell modules by running the following commands.
-    ```
-    Import-Module -Name VMware.PowerCLI -MinimumVersion 12.3.0
-    Import-Module -Name PowerValidatedSolutions -MinimumVersion 1.0.0
+    Install-Module -Name PowerValidatedSolutions -MinimumVersion 1.0.1
     ```
